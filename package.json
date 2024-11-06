@@ -1,7 +1,7 @@
 {
   "name": "@pwaset/core",
   "version": "0.1.0",
-  "description": "",
+  "description": "Node.js generator for Progressive Web App and platform-specific assets.",
   "type": "module",
   "main": "./dist/index.cjs",
   "module": "./dist/index.mjs",
