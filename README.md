@@ -1,4 +1,5 @@
 # Progressive Web Applications: Toolkits
+
 <!-- [![NPM version](https://img.shields.io/npm/v/favicons.svg)](https://www.npmjs.org/package/@pwas/core) -->
 
 [![Build Status](https://github.com/itgalaxy/favicons/actions/workflows/ci.yml/badge.svg)](https://github.com/itgalaxy/favicons/actions/workflows/ci.yml)
