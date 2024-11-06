@@ -1,6 +1,6 @@
 {
   "name": "@pwaset/core",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Node.js generator for Progressive Web App and platform-specific assets.",
   "type": "module",
   "main": "./dist/index.cjs",
@@ -36,7 +36,13 @@
     "url": "git+https://github.com/withpwa/core.git"
   },
   "keywords": [
-    "PWA"
+    "favicon",
+    "ico",
+    "generator",
+    "realfavicongenerator",
+    "Progressive Web Applications (PWAs) assets generator",
+    "manifest.webmanifest",
+    "yandex-browser-manifest.json"
   ],
   "author": "Junlin",
   "license": "MIT",
