@@ -1,7 +1,6 @@
 # Progressive Web Applications: Toolkits
 
 [![NPM Version](https://img.shields.io/npm/v/%40pwaset%2Fcore)](https://www.npmjs.com/package/@pwaset/core)
-
 [![Build Status](https://github.com/withpwa/core/actions/workflows/ci.yml/badge.svg?style=flat-square)](https://github.com/withpwa/core/actions/workflows/ci.yml)
 
 A **Node.js module** for generating progressive web applications (PWAs) assets and their associated files. Originally built for [Google's Web Starter Kit](https://github.com/google/web-starter-kit) and [Catalyst](https://github.com/haydenbleasel/catalyst). Install through NPM with:
